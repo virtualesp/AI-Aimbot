@@ -1,4 +1,9 @@
-﻿# 🎯 World's Best AI Aimbot 🎮
+> [!CAUTION]
+> # This tool is No Longer Supported by RootKit
+> We will not offer help for issues that arise with this program, or assist in getting it running on your machine.
+> You are free to fork and edit this tool yourself.
+
+# 🎯 World's Best AI Aimbot 🎮
 
 ![World's Best AI Aimbot Banner](imgs/banner.png)
 
@@ -9,7 +14,7 @@ Want to make your own bot? Then use the [Starter Code Pack](https://github.com/R
 --
 --
 ## 🙌 Welcome Aboard!
-We're a charity on a mission to educate and certify the upcoming wave of developers in the world of Computer Engineering 🌍. Need assistance? Hop into our [Discord](https://discord.gg/rootkitorg) and toss your questions at `@Wonder` in the *#ai-aimbot channel* (be sure to stick to this channel or face the consequences! 😬). Type away your query and include `@Wonder` in there.
+We're a charity on a mission to educate and certify the upcoming wave of developers in the world of Computer Engineering 🌍. ~~Need assistance? Hop into our [Discord](https://discord.gg/rootkitorg) and toss your questions at `@Wonder` in the *#ai-aimbot channel* (be sure to stick to this channel or face the consequences! 😬). Type away your query and include `@Wonder` in there.~~
 
 Our *AI Aimbot* 🤖 sharpshoots targets in **any game with humanoid characters**, harnessing the power of [YOLOv5](https://github.com/ultralytics). Currently, it's a ninja against anti-cheat systems, as it's visual-only. Still, watch out for manual player reports! 👀
 
